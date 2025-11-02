@@ -1,0 +1,1 @@
+El CRUD creado en Java fue emigrado al servidor con sus funciones de guardar, agregar a un nuevo usuario o estudiante, eliminarlos, modificar informacion, y toda la informacion queda guardada en la base de datos en mysql, se agrega un video del funcionamiento del programa
